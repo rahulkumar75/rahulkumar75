@@ -1,4 +1,4 @@
-<img src="[https://your-banner-image-url.com](https://github.com/user-attachments/assets/efe0516b-7632-49c1-815a-5145548a321b)" alt="banner" />
+<img src="(https://github.com/user-attachments/assets/efe0516b-7632-49c1-815a-5145548a321b)" alt="banner" />
 
 
 # Hi 👋, I'm Rahul Kumar
