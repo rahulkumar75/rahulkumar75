@@ -29,7 +29,7 @@
 
 
 <!--☕ **Like my work?** [Buy me a coffee!](https://www.buymeacoffee.com/yourhandle) -->
--->
+
 
 <!-- Banner Image -->
 <img src="https://github.com/user-attachments/assets/5c580388-25ad-4ba7-b389-090146c2c669" alt="Rahul Kumar | Full Stack Developer & DevOps Enthusiast" width="100%" />
@@ -48,7 +48,7 @@
 - 🌱 I’m exploring **Terraform, AWS, Kubernetes & CI/CD Pipelines**
 - 🤝 I’m open to **collaborations in DevOps, MERN, and Cloud projects**
 - 💬 Ask me about **JavaScript, Node.js, AWS, Docker, Terraform**
-- ⚡ Fun fact: **I debug at night, deploy in the morning! 😎**
+- ⚡ Fun fact: **I Debug at Aight, Deploy in the Morning! 😎**
 
 ---
 
@@ -62,7 +62,7 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahulkumar75&show_icons=true&theme=radical" width="400px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar75&theme=radical" width="400px" />
+ <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar75&theme=radical" width="400px" /> -->
 </p>
 
 ---
@@ -76,7 +76,7 @@
 
 ## 🎵 Spotify Now Playing:
 <p align="center">
-  <img src="https://novatorem-theabbie.vercel.app/api/spotify" />
+  <img src="https://novatorem-<your-github-username>.vercel.app/api/spotify" />
 </p>
 
 ---
