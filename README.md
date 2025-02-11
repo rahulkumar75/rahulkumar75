@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Rahul Kumar
 
-## 🚀 DevOps and Cloud Enthusiast | MERN | Automation
+## 🚀 DevOps Enthusiast | Automation | MERN
 
 - 🌱 I’m currently learning **AWS, Kubernetes, Terraform**
 - 👯 I’m looking to collaborate on **DevOps, Full Stack**
