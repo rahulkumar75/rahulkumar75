@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/efe0516b-7632-49c1-815a-5145548a321b" alt="banner" />
+
+![banner](https://github.com/user-attachments/assets/5c580388-25ad-4ba7-b389-090146c2c669)
 
 
 # Hi 👋, I'm Rahul Kumar
