@@ -1,7 +1,7 @@
 
-![banner](https://github.com/user-attachments/assets/5c580388-25ad-4ba7-b389-090146c2c669)
+<!--![banner](https://github.com/user-attachments/assets/5c580388-25ad-4ba7-b389-090146c2c669)-->
 
-
+<!--
 # Hi 👋, I'm Rahul Kumar
 
 ## 🚀 DevOps Enthusiast | Automation | MERN
@@ -29,3 +29,76 @@
 
 
 <!--☕ **Like my work?** [Buy me a coffee!](https://www.buymeacoffee.com/yourhandle) -->
+-->
+
+<!-- Banner Image -->
+<img src="https://github.com/user-attachments/assets/5c580388-25ad-4ba7-b389-090146c2c669" alt="Rahul Kumar | Full Stack Developer & DevOps Enthusiast" width="100%" />
+
+<h1 align="center">Hey there 👋, I'm Rahul Kumar</h1>
+<h3 align="center">🚀 Full Stack Developer | DevOps & Cloud Enthusiast | Open Source Contributor</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F78A&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+DevOps+Learner;MERN+Stack+%7C+Cloud+%7C+Infrastructure+as+Code;Automating+Cloud+Deployments+%7C+Kubernetes+%7C+Terraform;Always+learning+new+technologies!+🚀" />
+</p>
+
+---
+
+## 🚀 About Me
+- 🔭 I’m currently **deploying a MERN-based app in AWS**
+- 🌱 I’m exploring **Terraform, AWS, Kubernetes & CI/CD Pipelines**
+- 🤝 I’m open to **collaborations in DevOps, MERN, and Cloud projects**
+- 💬 Ask me about **JavaScript, Node.js, AWS, Docker, Terraform**
+- ⚡ Fun fact: **I debug at night, deploy in the morning! 😎**
+
+---
+
+## 🛠 Tech Stack & Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,nginx,nodejs,mongodb,express,react,redux,git,linux,vscode,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumar75&show_icons=true&theme=radical" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar75&theme=radical" width="400px" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rahulkumar75&theme=darkhub" />
+</p>
+
+---
+
+## 🎵 Spotify Now Playing:
+<p align="center">
+  <img src="https://novatorem-theabbie.vercel.app/api/spotify" />
+</p>
+
+---
+
+## 🌍 Connect With Me:
+<p align="center">
+  <a href="https://linkedin.com/in/rahulkumar-bitmesra24" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:rahulkumarx333@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+
+<!--
+## ☕ Support My Work:
+<p align="center">
+  <a href="https://www.buymeacoffee.com/yourhandle">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F4A261?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+  </a>
+</p>
+-->
