@@ -54,11 +54,11 @@
 
 ## 🛠 Tech Stack & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,nginx,nodejs,mongodb,express,react,redux,git,linux,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,nginx,nodejs,mongodb,express,react,redux,git,linux,vscode,javascript,python,github" />
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahulkumar75&show_icons=true&theme=radical" width="400px" />
@@ -78,7 +78,7 @@
 <p align="center">
   <img src="https://novatorem-<your-github-username>.vercel.app/api/spotify" />
 </p>
-
+-->
 ---
 
 ## 🌍 Connect With Me:
