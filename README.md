@@ -54,7 +54,7 @@
 
 ## 🛠 Tech Stack & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,nginx,nodejs,mongodb,express,react,redux,git,linux,vscode,javascript,python,github" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,nginx,nodejs,mongodb,express,react,redux,git,linux,vscode,javascript,python" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahulkumar75&show_icons=true&theme=radical" width="400px" />
- <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar75&theme=radical" width="400px" /> -->
+ <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar75&theme=radical" width="400px" /> 
 </p>
 
 ---
