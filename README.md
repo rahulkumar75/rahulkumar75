@@ -11,7 +11,7 @@
 - 🤝 I’m looking for help with **Cloud Computing, Infrastructure Automation**
 - 💬 Ask me about **DevOps, Cloud, JavaScript, MERN, Open Source**
 - 📫 How to reach me: **rahulkumarx333@gmail.com**
-- ⚡ Fun fact: ** Fun fact Sometimes I'm a night owl & sometimes an early bird! **
+- ⚡ Fun fact: **Fun fact Sometimes I'm a night owl & sometimes an early bird!**
 
 ### 🛠 Languages and Tools:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white)
