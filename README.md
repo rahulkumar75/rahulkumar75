@@ -12,6 +12,7 @@
 -->
 ## 🚀 About Me
 - 🔭 I’m currently **deploying a MERN-based app in AWS**
+- ⚡ Data Structure and Algorithms: Problem solving on **Leetcode**
 - 🌱 I’m exploring **Terraform, AWS, Kubernetes & CI/CD Pipelines**
 - 🤝 I’m open to **collaborations in DevOps, MERN, and Cloud projects**
 - 💬 Ask me about **JavaScript, Node.js, AWS, Docker, Terraform**
