@@ -1,9 +1,9 @@
-<!-- Banner Image -->
+<!-- Banner Image 
 <img src="https://github.com/user-attachments/assets/5c580388-25ad-4ba7-b389-090146c2c669" alt="Rahul Kumar | Full Stack Developer & DevOps Enthusiast" width="100%" />
 
 <h1 align="center">Hey there 👋, I'm Rahul Kumar</h1>
 <h3 align="center">Full Stack Developer | DevOps & Cloud Enthusiast</h3>
-
+-->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F78A&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+DevOps+Learner;MERN+Stack+%7C+Cloud+%7C+Infrastructure+as+Code;Automating+Cloud+Deployments+%7C+Kubernetes+%7C+Terraform;Always+learning+new+technologies!+🚀" />
 </p>
