@@ -14,7 +14,7 @@
 
 
 
-* 💼 Currently working as a **Junior DevOps Engineer**
+* 💼 Currently working as a **DevOps Engineer**
 
 * ☸️ Preparing for **Certified Kubernetes Administrator (CKA)** and documenting my hands-on learning journey
 
