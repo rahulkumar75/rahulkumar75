@@ -11,12 +11,28 @@
 ---
 -->
 ## 🚀 About Me
-- 🔭 I’m currently **deploying a MERN-based app in AWS**
-- ⚡ Data Structure and Algorithms: Problem solving on **Leetcode**
-- 🌱 I’m exploring **Terraform, AWS, Kubernetes & CI/CD Pipelines**
-- 🤝 I’m open to **collaborations in DevOps, MERN, and Cloud projects**
-- 💬 Ask me about **JavaScript, Node.js, AWS, Docker, Terraform**
-- ⚡ Fun fact: **Sometimes I'm a night owl & sometimes an early bird!**
+
+
+
+* 💼 Currently working as a **Junior DevOps Engineer**
+
+* ☸️ Preparing for **Certified Kubernetes Administrator (CKA)** and documenting my hands-on learning journey
+
+* 🚀 Building and deploying cloud-native applications using **AWS, Kubernetes, Docker, Terraform, and GitHub Actions**
+
+* 🌱 Continuously improving my skills in **DevOps, DevSecOps, Cloud Architecture, CI/CD, and Automation**
+
+* 🛠️ Hands-on with **AWS, Kubernetes, Terraform, Docker, Linux, Git, GitHub Actions, Jenkins, Argo CD, and Monitoring tools**
+
+* 🔭 Exploring **Platform Engineering, MLOps and Kubernetes Security**
+
+* 💬 Ask me about **AWS, Kubernetes, Docker, Terraform, Linux, CI/CD, and DevOps**
+
+* 📚 Learning in public through my **Kubernetes & CKA Journey Repository**
+
+* ⚡ Fun fact: **I'm a strong believer that every production issue is a learning opportunity in disguise.**
+
+
 
 ---
 
