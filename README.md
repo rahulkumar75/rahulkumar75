@@ -1,64 +1,35 @@
+
 <div align="center">
-  <img src="https://github.com/rahulkumar75/rahulkumar75/blob/main/rahul-github-banner.png" alt="Banner" width="1100"/>
+  <img src="https://github.com/rahulkumar75/rahulkumar75/blob/main/rahul-github-banner.png" alt="Rahul Kumar - DevOps & SRE Engineer" width="1100"/>
 </div>
 
 <div align="center">
 
 # 👋 Hi, I'm Rahul Kumar
 
-### DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
+### DevOps & SRE Engineer | AWS | Kubernetes | Terraform | CI/CD
 
 <p>
   <b>Building reliable infrastructure • Automating deployments • Troubleshooting production systems</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=700&lines=DevOps+%26+SRE+Engineer+%F0%9F%9A%80;Building+Reliable+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Automating+Infrastructure+with+Terraform+%E2%9A%99%EF%B8%8F;Deploying+%26+Troubleshooting+Kubernetes+%F0%9F%9A%A2;Building+CI%2FCD+%26+GitOps+Workflows+%F0%9F%94%84;Monitoring+Systems+with+Prometheus+%26+Grafana+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2196F3&center=true&vCenter=true&width=650&lines=DevOps+%26+SRE+Engineer+%F0%9F%9A%80;Building+Reliable+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Automating+Deployments+with+Terraform+%26+Kubernetes+%E2%9A%99%EF%B8%8F" alt="Typing SVG"/>
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-```yaml
-name: Rahul Kumar
-role: Junior DevOps Engineer
-experience: 1+ year
-location: Bangalore, India
-
-focus_areas:
-  - Cloud Infrastructure
-  - Site Reliability Engineering
-  - Kubernetes & Containerization
-  - CI/CD Automation
-  - Infrastructure as Code
-  - Monitoring & Observability
-  - Production Troubleshooting
-
-currently_learning:
-  - Kubernetes (CKA)
-  - AWS Solutions Architecture
-  - Advanced Terraform
-  - SRE & Reliability Engineering
-  - Python for DevOps
-
-currently_building:
-  - SRE Reliability Platform
-  - DevOps automation projects
-  - Kubernetes & AWS labs
-
-ask_me_about:
-  - AWS
-  - Kubernetes
-  - Terraform
-  - Docker
-  - CI/CD
-  - Linux
-  - Python
-  - DevOps / SRE
-````
+- 🚀 Junior **DevOps Engineer** with **1+ year** of experience
+- ☁️ Building and managing cloud infrastructure on **AWS**
+- ⚙️ Automating infrastructure and deployments using **Terraform & CI/CD**
+- 🚢 Deploying and troubleshooting **Kubernetes** workloads
+- 📊 Working with **Monitoring, Observability & Reliability**
+- 🐧 Comfortable with **Linux, Python & Bash** for automation and troubleshooting
+- 🌱 Currently preparing for **CKA** and **AWS SAA**
 
 ---
 
@@ -119,65 +90,25 @@ ask_me_about:
 
 ---
 
-## 💼 What I Work On
-
-### 🔧 DevOps & SRE
-
-* Managing and troubleshooting cloud infrastructure on **AWS**
-* Building infrastructure using **Terraform**
-* Containerizing applications with **Docker**
-* Deploying and troubleshooting workloads on **Kubernetes**
-* Building and maintaining **CI/CD pipelines**
-* Working with **Jenkins and GitHub Actions**
-* Implementing GitOps workflows with **Argo CD**
-* Monitoring systems using **Prometheus and Grafana**
-* Troubleshooting Linux, networking, application and infrastructure issues
-* Automating repetitive operational tasks using **Python and Bash**
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔹 SRE Reliability Platform
 
-A hands-on reliability engineering project focused on building and operating a production-style service platform.
+A production-style reliability engineering platform focused on building, operating, monitoring and troubleshooting distributed services.
 
-**Focus:**
+**Focus:** Health & readiness checks • Failure testing • Observability • Reliability engineering • Production troubleshooting
 
-* FastAPI microservice
-* PostgreSQL
-* Docker
-* Kubernetes
-* Health & readiness checks
-* Reliability experiments
-* Failure handling
-* Observability
-* Production troubleshooting
-
-**Tech:**
-
-`Python` `FastAPI` `PostgreSQL` `Docker` `Kubernetes` `Prometheus` `Grafana`
+**Tech:** `Python` `FastAPI` `PostgreSQL` `Docker` `Kubernetes` `Prometheus` `Grafana`
 
 ---
 
 ### 🔹 E-Commerce DevOps Platform
 
-A multi-microservice DevOps implementation deployed on AWS Kubernetes infrastructure.
+AWS-based microservices platform demonstrating infrastructure automation, container orchestration and end-to-end CI/CD.
 
-**Focus:**
+**Focus:** AWS infrastructure • Terraform • EKS • Docker • GitHub Actions • Argo CD • AWS Networking
 
-* AWS infrastructure
-* Terraform
-* Kubernetes / EKS
-* Docker
-* CI/CD
-* GitHub Actions
-* Argo CD
-* AWS networking
-
-**Tech:**
-
-`AWS` `EKS` `Terraform` `Docker` `GitHub Actions` `Argo CD` `Kubernetes`
+**Tech:** `AWS` `EKS` `Terraform` `Docker` `GitHub Actions` `Argo CD` `Kubernetes`
 
 ---
 
@@ -186,7 +117,7 @@ A multi-microservice DevOps implementation deployed on AWS Kubernetes infrastruc
 ```text
 Kubernetes / CKA
        ↓
-AWS / Solutions Architect - Associate (SAA-C03)
+AWS Solutions Architecture
        ↓
 Terraform & Infrastructure as Code
        ↓
@@ -194,26 +125,18 @@ CI/CD & GitOps
        ↓
 SRE & Reliability Engineering
        ↓
-Observability
+Observability & Production Troubleshooting
        ↓
 Python Automation
-```
+````
 
-I believe in learning by **building, troubleshooting, and documenting real problems**.
+> I believe in learning by **building, troubleshooting, and documenting real problems.**
 
 ---
 
-## 🎯 My DevOps Philosophy
+## 🎯 DevOps Philosophy
 
-> **Automate what can be automated.
-> Observe what can fail.
-> Troubleshoot with evidence.
-> Build systems that are reliable by design.**
-
-|   Reliability   |  Automation | Observability |   Engineering  |
-| :-------------: | :---------: | :-----------: | :------------: |
-|       🛡️       |      ⚙️     |       📊      |       🚀       |
-| Reduce failures | Reduce toil | Find problems | Keep improving |
+> **Automate repetitive work. Build reliable systems. Troubleshoot with evidence.**
 
 ---
 
@@ -256,3 +179,4 @@ I believe in learning by **building, troubleshooting, and documenting real probl
 ### 🚀 Learn. Build. Automate. Troubleshoot. Repeat.
 
 </div>
+
