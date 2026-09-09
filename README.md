@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2196F3&center=true&vCenter=true&width=650&lines=DevOps+%26+SRE+Engineer+%F0%9F%9A%80;Building+Reliable+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Automating+Deployments+with+Terraform+%26+Kubernetes+%E2%9A%99%EF%B8%8F" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2196F3&center=true&vCenter=true&width=750&lines=DevOps+%26+SRE+Engineer+%F0%9F%9A%80;Building+Reliable+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Automating+with+Terraform+%26+Kubernetes+%E2%9A%99%EF%B8%8F;Improving+Reliability+with+Observability+%F0%9F%93%8A" alt="Typing SVG"/>
 </p>
 
 </div>
