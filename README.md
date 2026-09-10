@@ -10,7 +10,7 @@
 ### DevOps & SRE Engineer | AWS | Kubernetes | Terraform | CI/CD
 
 <p>
-  <b>Building reliable infrastructure • Automating deployments • Troubleshooting production systems</b>
+  <b>Building Reliable Infrastructure • Automating Deployments • Troubleshooting Production Systems</b>
 </p>
 
 <p align="center">
@@ -31,60 +31,27 @@
 - 🐧 Comfortable with **Linux, Python & Bash** for automation and troubleshooting
 - 🌱 Currently preparing for **CKA** and **AWS SAA**
 
+> ⚡ **Engineering Mindset:** Every production issue is an opportunity to learn, troubleshoot, and build something more reliable.
+
 ---
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & Infrastructure
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-
-</div>
-
-### 🐳 Containers & Orchestration
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-
-</div>
-
-### 🔄 CI/CD & Automation
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</div>
-
-### 📊 Monitoring & Observability
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white"/>
-
-</div>
-
-### 💻 Languages & Systems
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+| Category | Technologies |
+|:---|:---|
+| ☁️ **Cloud** | AWS • EC2 • S3 • IAM • VPC • Route 53 |
+| 🏗️ **Infrastructure as Code** | Terraform • Ansible |
+| 🚢 **Containers** | Docker |
+| ☸️ **Kubernetes & GitOps** | Kubernetes • EKS • Helm • Argo CD |
+| 🔄 **CI/CD** | Jenkins • GitHub Actions |
+| 📊 **Observability** | Prometheus • Grafana • ELK |
+| 🌐 **Networking** | VPC • DNS • Load Balancing • HTTP/HTTPS |
+| 🐧 **Systems** | Linux • Bash |
+| 🐍 **Programming & Automation** | Python • Shell Scripting |
+| 🗄️ **Databases** | MySQL • PostgreSQL • MongoDB |
+| 🔧 **Version Control** | Git • GitHub |
 
 </div>
 
@@ -112,47 +79,33 @@ AWS-based microservices platform demonstrating infrastructure automation, contai
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Learning & Building
 
-```text
-Kubernetes / CKA
-       ↓
-AWS Solutions Architecture
-       ↓
-Terraform & Infrastructure as Code
-       ↓
-CI/CD & GitOps
-       ↓
-SRE & Reliability Engineering
-       ↓
-Observability & Production Troubleshooting
-       ↓
-Python Automation
-````
+I'm continuously strengthening my DevOps & SRE skills through hands-on projects, labs, and real-world troubleshooting.
 
-> I believe in learning by **building, troubleshooting, and documenting real problems.**
+| Focus Area | What I'm Working On |
+|:---|:---|
+| ☸️ **Kubernetes** | CKA preparation • Troubleshooting • Workloads • Networking • Storage |
+| ☁️ **AWS** | Solutions Architecture • Networking • Security • Production scenarios |
+| 🏗️ **Terraform** | Reusable modules • Infrastructure automation • Best practices |
+| 🔄 **CI/CD & GitOps** | Jenkins • GitHub Actions • Argo CD • Deployment automation |
+| 🛡️ **SRE** | Reliability • Health checks • Failure testing • Incident troubleshooting |
+| 📊 **Observability** | Metrics • Logs • Dashboards • Alerting • Troubleshooting |
+| 🐍 **Python for DevOps** | Automation • CLI tools • AWS operations • Operational scripting |
+
+> **Learn by building. Improve by troubleshooting. Grow by documenting.**
 
 ---
 
-## 🎯 DevOps Philosophy
-
-> **Automate repetitive work. Build reliable systems. Troubleshoot with evidence.**
-
----
-
-## 📈 GitHub Stats
+## 📊 My GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulkumar75&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar75&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar75&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+  height="180"
+  src="https://streak-stats.demolab.com/?user=rahulkumar75&theme=tokyonight&hide_border=true"
+  alt="Rahul Kumar's GitHub Streak"
+/>
 
 </div>
 
@@ -163,12 +116,20 @@ Python Automation
 <div align="center">
 
 <a href="https://github.com/rahulkumar75">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-rahulkumar75-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/rahulkumar-bitmesra24/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:rahulkumarx333@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br><br>
+
+<b>💼 Open to DevOps • SRE • Cloud Engineering opportunities</b>
 
 </div>
 
@@ -176,7 +137,7 @@ Python Automation
 
 <div align="center">
 
-### 🚀 Learn. Build. Automate. Troubleshoot. Repeat.
+### Learn. Build. Automate. Troubleshoot. Repeat.
 
 </div>
 
